@@ -48,6 +48,7 @@ nav ul li{
 #header{
     background-image: url(/assets/Hero-bg.png);
     background-repeat:repeat;
+    
 }
 .banner{
     display:flex;
@@ -77,3 +78,183 @@ text-align: center;
     width: 241px;
 }
 }
+.inspire{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+margin: 0 auto;
+}
+.duration{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+margin: 0 auto;
+
+}
+
+
+.content{
+    margin-top: 10px;
+    width: 1140px;
+    height: 775px;
+    margin: 0 auto;
+    border: 2px solid red;
+}
+.headi{
+    margin: 0 auto;
+}
+.video-content{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+footer{
+    margin: 0 auto;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.footer-style{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.footer-name{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 150px;
+}
+#support{
+    height: 200px;
+    
+    background-image: 
+     url(/assets/handshake.jpg) ;
+    background-position: center;
+    
+    border-radius: 16px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin: 80px 200px;
+
+  
+
+}
+#support .support-content{
+    width: 583.11px;
+    
+
+}
+#support .support-content .support-title{
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: center;
+}
+#support .support-content .description{
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+
+}
+.support-btn{
+    padding: 8px 15px 8px 15px;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+border-radius: 8px;
+}
+.sbtn-container{
+    text-align: center;
+}
+#card-box{
+    width: 650px;
+    margin: 50px auto;
+    
+
+    
+
+
+        
+}
+#card-box .card-title{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 25px;
+font-weight: 800;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+}
+#card-box .card-des{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 12px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+
+}
+.cc-container{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    gap: 200px;
+  
+}
+.card{
+    max-width: 208px;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    justify-content:left;
+    
+   
+}
+.card .image-box{
+    width: 162px;
+    
+}
+.bg1 {
+    background-color: rgba(255, 76, 30, 0.05);
+    border-radius: 16px;
+    width: px;
+}
+
